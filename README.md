@@ -1,12 +1,16 @@
 # Vue.js Boilerplate
 ## Build Setup
 
-### install dependencies
+### Install Dependencies
+
 npm install
 
-### serve with hot reload at localhost:8080
+
+### Serve @ localhost:8080
+
 npm run dev
 
-### build for production with minification
+### Build for production
+
 npm run build
 
